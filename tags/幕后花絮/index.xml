@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>幕后花絮 | 标签 | 苗炳义写字的地方</title>
+        <link>https://miaobingyi.com/tags/%E5%B9%95%E5%90%8E%E8%8A%B1%E7%B5%AE/</link>
+        <description>幕后花絮 | 标签 | 苗炳义写字的地方</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>miaobingyi.com@gmail.com (苗炳义)</managingEditor>
+            <webMaster>miaobingyi.com@gmail.com (苗炳义)</webMaster><lastBuildDate>Wed, 19 Sep 2018 21:29:40 &#43;0800</lastBuildDate><atom:link href="https://miaobingyi.com/tags/%E5%B9%95%E5%90%8E%E8%8A%B1%E7%B5%AE/" rel="self" type="application/rss+xml" /><item>
+                <title>个人网站使用指北和花絮</title>
+                <link>https://miaobingyi.com/2018/hello-my-own-website/</link>
+                <pubDate>Wed, 19 Sep 2018 21:29:40 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2018/hello-my-own-website/</guid>
+                <description>用来玩和测试各种新功能的文档</description>
+            </item></channel>
+</rss>

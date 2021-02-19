@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>演讲 | 标签 | 苗炳义写字的地方</title>
+        <link>https://miaobingyi.com/tags/%E6%BC%94%E8%AE%B2/</link>
+        <description>演讲 | 标签 | 苗炳义写字的地方</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>miaobingyi.com@gmail.com (苗炳义)</managingEditor>
+            <webMaster>miaobingyi.com@gmail.com (苗炳义)</webMaster><lastBuildDate>Sun, 28 Apr 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://miaobingyi.com/tags/%E6%BC%94%E8%AE%B2/" rel="self" type="application/rss+xml" /><item>
+                <title>关于演讲的想法</title>
+                <link>https://miaobingyi.com/2019/about-speech/</link>
+                <pubDate>Sun, 28 Apr 2019 00:00:00 &#43;0000</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2019/about-speech/</guid>
+                <description>难道在座的真的全是大白菜？</description>
+            </item></channel>
+</rss>

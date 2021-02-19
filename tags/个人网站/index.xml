@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>个人网站 | 标签 | 苗炳义写字的地方</title>
+        <link>https://miaobingyi.com/tags/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</link>
+        <description>个人网站 | 标签 | 苗炳义写字的地方</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>miaobingyi.com@gmail.com (苗炳义)</managingEditor>
+            <webMaster>miaobingyi.com@gmail.com (苗炳义)</webMaster><lastBuildDate>Fri, 08 Nov 2019 09:44:24 &#43;0800</lastBuildDate><atom:link href="https://miaobingyi.com/tags/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/" rel="self" type="application/rss+xml" /><item>
+                <title>心目中个人网站的样子</title>
+                <link>https://miaobingyi.com/2019/a-model-of-websites/</link>
+                <pubDate>Fri, 08 Nov 2019 09:44:24 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2019/a-model-of-websites/</guid>
+                <description>这个博客网站会持续改进的。</description>
+            </item></channel>
+</rss>

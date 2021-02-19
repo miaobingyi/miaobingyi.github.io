@@ -1,0 +1,78 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 | 苗炳义写字的地方</title>
+        <link>https://miaobingyi.com/posts/</link>
+        <description>所有文章 | 苗炳义写字的地方</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>miaobingyi.com@gmail.com (苗炳义)</managingEditor>
+            <webMaster>miaobingyi.com@gmail.com (苗炳义)</webMaster><lastBuildDate>Fri, 07 Feb 2020 21:29:40 &#43;0800</lastBuildDate><atom:link href="https://miaobingyi.com/posts/" rel="self" type="application/rss+xml" /><item>
+                <title>切尔诺贝利</title>
+                <link>https://miaobingyi.com/2020/lies-and-truth/</link>
+                <pubDate>Fri, 07 Feb 2020 21:29:40 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2020/lies-and-truth/</guid>
+                <description>初看不懂剧中意，再看已是剧中人。</description>
+            </item><item>
+                <title>辛普森一家人S01E01</title>
+                <link>https://miaobingyi.com/2020/the-simpsons-s01e01/</link>
+                <pubDate>Tue, 28 Jan 2020 20:19:47 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2020/the-simpsons-s01e01/</guid>
+                <description>小人物的故事。</description>
+            </item><item>
+                <title>学习计算机或许可以改变思维</title>
+                <link>https://miaobingyi.com/2020/computer-vs-brainhabits/</link>
+                <pubDate>Tue, 21 Jan 2020 17:18:53 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2020/computer-vs-brainhabits/</guid>
+                <description>人发明了计算机，反过来和计算机学习。</description>
+            </item><item>
+                <title>突然意识到快要毕业了</title>
+                <link>https://miaobingyi.com/2020/graduation-lessons/</link>
+                <pubDate>Tue, 14 Jan 2020 08:15:32 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2020/graduation-lessons/</guid>
+                <description>我听说，XX说，书上说，老师说。F**K！</description>
+            </item><item>
+                <title>说说职业病</title>
+                <link>https://miaobingyi.com/2020/occupational-disease/</link>
+                <pubDate>Tue, 07 Jan 2020 17:18:26 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2020/occupational-disease/</guid>
+                <description>脱发，腰痛，颈椎病</description>
+            </item><item>
+                <title>2020年Flag</title>
+                <link>https://miaobingyi.com/2019/new-year-resolution/</link>
+                <pubDate>Fri, 27 Dec 2019 21:32:27 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2019/new-year-resolution/</guid>
+                <description>计划中，永远有读书，健身和减肥三项。</description>
+            </item><item>
+                <title>如何写一篇科技大论文</title>
+                <link>https://miaobingyi.com/2019/how-to-write-a-science-article/</link>
+                <pubDate>Sat, 07 Dec 2019 19:29:40 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2019/how-to-write-a-science-article/</guid>
+                <description>把思想放到八股格式中。</description>
+            </item><item>
+                <title>写一份教程的教程</title>
+                <link>https://miaobingyi.com/2019/a-tutorial-of-tutorials/</link>
+                <pubDate>Wed, 27 Nov 2019 13:53:30 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2019/a-tutorial-of-tutorials/</guid>
+                <description>教程是应该站在学习者的角度来写的。</description>
+            </item><item>
+                <title>心目中个人网站的样子</title>
+                <link>https://miaobingyi.com/2019/a-model-of-websites/</link>
+                <pubDate>Fri, 08 Nov 2019 09:44:24 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2019/a-model-of-websites/</guid>
+                <description>这个博客网站会持续改进的。</description>
+            </item><item>
+                <title>编程的基本修养</title>
+                <link>https://miaobingyi.com/2019/hello-world-2-major/</link>
+                <pubDate>Sun, 27 Oct 2019 19:16:36 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2019/hello-world-2-major/</guid>
+                <description>这你都不会？</description>
+            </item></channel>
+</rss>

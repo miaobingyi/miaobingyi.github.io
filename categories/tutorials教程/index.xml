@@ -1,0 +1,36 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tutorials|教程 | 分类 | 苗炳义写字的地方</title>
+        <link>https://miaobingyi.com/categories/tutorials%E6%95%99%E7%A8%8B/</link>
+        <description>Tutorials|教程 | 分类 | 苗炳义写字的地方</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>miaobingyi.com@gmail.com (苗炳义)</managingEditor>
+            <webMaster>miaobingyi.com@gmail.com (苗炳义)</webMaster><lastBuildDate>Wed, 27 Nov 2019 13:53:30 &#43;0800</lastBuildDate><atom:link href="https://miaobingyi.com/categories/tutorials%E6%95%99%E7%A8%8B/" rel="self" type="application/rss+xml" /><item>
+                <title>写一份教程的教程</title>
+                <link>https://miaobingyi.com/2019/a-tutorial-of-tutorials/</link>
+                <pubDate>Wed, 27 Nov 2019 13:53:30 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2019/a-tutorial-of-tutorials/</guid>
+                <description>教程是应该站在学习者的角度来写的。</description>
+            </item><item>
+                <title>重要的文件都需要备份</title>
+                <link>https://miaobingyi.com/2019/backup-your-things/</link>
+                <pubDate>Tue, 13 Aug 2019 00:00:00 &#43;0000</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2019/backup-your-things/</guid>
+                <description>我要是备份就好了。</description>
+            </item><item>
+                <title>文献管理相关</title>
+                <link>https://miaobingyi.com/2018/papers-management/</link>
+                <pubDate>Thu, 25 Oct 2018 00:00:00 &#43;0000</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2018/papers-management/</guid>
+                <description>论参考文献序号的自我修养</description>
+            </item><item>
+                <title>个人网站使用指北和花絮</title>
+                <link>https://miaobingyi.com/2018/hello-my-own-website/</link>
+                <pubDate>Wed, 19 Sep 2018 21:29:40 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2018/hello-my-own-website/</guid>
+                <description>用来玩和测试各种新功能的文档</description>
+            </item></channel>
+</rss>

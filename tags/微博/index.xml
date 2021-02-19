@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>微博 | 标签 | 苗炳义写字的地方</title>
+        <link>https://miaobingyi.com/tags/%E5%BE%AE%E5%8D%9A/</link>
+        <description>微博 | 标签 | 苗炳义写字的地方</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>miaobingyi.com@gmail.com (苗炳义)</managingEditor>
+            <webMaster>miaobingyi.com@gmail.com (苗炳义)</webMaster><lastBuildDate>Fri, 11 Oct 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://miaobingyi.com/tags/%E5%BE%AE%E5%8D%9A/" rel="self" type="application/rss+xml" /><item>
+                <title>社交媒体可能的打开方式</title>
+                <link>https://miaobingyi.com/2019/social-media/</link>
+                <pubDate>Fri, 11 Oct 2019 00:00:00 &#43;0000</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2019/social-media/</guid>
+                <description>你有来自微信/抖音/B站/头条的消息。</description>
+            </item></channel>
+</rss>

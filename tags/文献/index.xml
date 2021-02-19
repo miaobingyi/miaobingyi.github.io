@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>文献 | 标签 | 苗炳义写字的地方</title>
+        <link>https://miaobingyi.com/tags/%E6%96%87%E7%8C%AE/</link>
+        <description>文献 | 标签 | 苗炳义写字的地方</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>miaobingyi.com@gmail.com (苗炳义)</managingEditor>
+            <webMaster>miaobingyi.com@gmail.com (苗炳义)</webMaster><lastBuildDate>Wed, 09 Jan 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://miaobingyi.com/tags/%E6%96%87%E7%8C%AE/" rel="self" type="application/rss+xml" /><item>
+                <title>来到实验室第一天</title>
+                <link>https://miaobingyi.com/2019/the-first-day-to-lab/</link>
+                <pubDate>Wed, 09 Jan 2019 00:00:00 &#43;0000</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2019/the-first-day-to-lab/</guid>
+                <description>咚咚，您好，请问是XXX老师的实验室吗？</description>
+            </item></channel>
+</rss>

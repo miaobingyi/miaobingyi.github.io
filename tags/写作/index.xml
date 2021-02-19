@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>写作 | 标签 | 苗炳义写字的地方</title>
+        <link>https://miaobingyi.com/tags/%E5%86%99%E4%BD%9C/</link>
+        <description>写作 | 标签 | 苗炳义写字的地方</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>miaobingyi.com@gmail.com (苗炳义)</managingEditor>
+            <webMaster>miaobingyi.com@gmail.com (苗炳义)</webMaster><lastBuildDate>Sun, 14 Apr 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://miaobingyi.com/tags/%E5%86%99%E4%BD%9C/" rel="self" type="application/rss+xml" /><item>
+                <title>关于持续写字的想法</title>
+                <link>https://miaobingyi.com/2019/about-writing/</link>
+                <pubDate>Sun, 14 Apr 2019 00:00:00 &#43;0000</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2019/about-writing/</guid>
+                <description>写着写着就发现有虫子来爬了。</description>
+            </item></channel>
+</rss>

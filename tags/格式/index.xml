@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>格式 | 标签 | 苗炳义写字的地方</title>
+        <link>https://miaobingyi.com/tags/%E6%A0%BC%E5%BC%8F/</link>
+        <description>格式 | 标签 | 苗炳义写字的地方</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>miaobingyi.com@gmail.com (苗炳义)</managingEditor>
+            <webMaster>miaobingyi.com@gmail.com (苗炳义)</webMaster><lastBuildDate>Sat, 07 Dec 2019 19:29:40 &#43;0800</lastBuildDate><atom:link href="https://miaobingyi.com/tags/%E6%A0%BC%E5%BC%8F/" rel="self" type="application/rss+xml" /><item>
+                <title>如何写一篇科技大论文</title>
+                <link>https://miaobingyi.com/2019/how-to-write-a-science-article/</link>
+                <pubDate>Sat, 07 Dec 2019 19:29:40 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2019/how-to-write-a-science-article/</guid>
+                <description>把思想放到八股格式中。</description>
+            </item><item>
+                <title>套路和格式</title>
+                <link>https://miaobingyi.com/2019/rountines-and-formats/</link>
+                <pubDate>Thu, 21 Mar 2019 00:00:00 &#43;0000</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2019/rountines-and-formats/</guid>
+                <description>为什么八股？</description>
+            </item></channel>
+</rss>

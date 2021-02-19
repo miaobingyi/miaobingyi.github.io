@@ -1,0 +1,29 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Episodes|影视 | 分类 | 苗炳义写字的地方</title>
+        <link>https://miaobingyi.com/categories/episodes%E5%BD%B1%E8%A7%86/</link>
+        <description>Episodes|影视 | 分类 | 苗炳义写字的地方</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>miaobingyi.com@gmail.com (苗炳义)</managingEditor>
+            <webMaster>miaobingyi.com@gmail.com (苗炳义)</webMaster><lastBuildDate>Fri, 07 Feb 2020 21:29:40 &#43;0800</lastBuildDate><atom:link href="https://miaobingyi.com/categories/episodes%E5%BD%B1%E8%A7%86/" rel="self" type="application/rss+xml" /><item>
+                <title>切尔诺贝利</title>
+                <link>https://miaobingyi.com/2020/lies-and-truth/</link>
+                <pubDate>Fri, 07 Feb 2020 21:29:40 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2020/lies-and-truth/</guid>
+                <description>初看不懂剧中意，再看已是剧中人。</description>
+            </item><item>
+                <title>辛普森一家人S01E01</title>
+                <link>https://miaobingyi.com/2020/the-simpsons-s01e01/</link>
+                <pubDate>Tue, 28 Jan 2020 20:19:47 &#43;0800</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2020/the-simpsons-s01e01/</guid>
+                <description>小人物的故事。</description>
+            </item><item>
+                <title>我们与恶的距离</title>
+                <link>https://miaobingyi.com/2019/the-world-between-us/</link>
+                <pubDate>Thu, 02 May 2019 00:00:00 &#43;0000</pubDate>
+                <author>苗炳义</author>
+                <guid>https://miaobingyi.com/2019/the-world-between-us/</guid>
+                <description>你们媒体杀的人，不比我哥的少！</description>
+            </item></channel>
+</rss>
